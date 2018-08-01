@@ -1,2 +1,2 @@
 # iptv
-iamgenes iptv
+imagenes iptv
